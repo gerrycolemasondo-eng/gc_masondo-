@@ -1,4 +1,4 @@
-### Hi, I'm Gerry Masondo 👋
+### Hi, I'm Gerald Collins Masondo 👋
 Statistics Graduate & Data Analyst passionate about data visualization and statistical modelling. Also a hyper-realistic artist exploring data + creativity.
 
 ### 🎗️ Featured Project: Survival Analysis for Breast Cancer in Zimbabwe
@@ -12,7 +12,7 @@ Statistics Graduate & Data Analyst passionate about data visualization and stati
 
 **Files:**
 - `survival_analysis.R` - Cleaned R code
-- `summary_page1.png` & `summary_page2.png` - 2-page report
+- `summary_page1.jpg` & `summary_page2.jpg` - 2-page report
 
 ### 🛠️ Skills
 R, SQL, SPSS, ggplot2, Power BI, Excel
