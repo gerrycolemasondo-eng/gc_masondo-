@@ -13,10 +13,10 @@ Statistics Graduate & Data Analyst passionate about data visualization and stati
 ### 📊 Project Visual Summary
 
 #### Page 1 - Overview
-![Page 1](./summary_page1.jpg)
+![Page 1](./summary_page1%20.jpg)
 
 #### Page 2 - Key Findings (p=0.0038, HR=3.27)
-![Page 2](./summary_page2.jpg)
+![Page 2](./summary_page2%20.jpg)
 
 ### 💻 Code & Reproducibility
 - `survival_analysis.R` - Full R code (Kaplan-Meier, Log-Rank, Cox Model)
