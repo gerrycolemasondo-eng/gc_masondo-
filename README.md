@@ -10,10 +10,21 @@ Statistics Graduate & Data Analyst passionate about data visualization and stati
 - HR increases with age (HR=3.27 for 81-90)
 - Tools: R (survival, survminer), SPSS v22, Excel
 
-**Files:**
-- `survival_analysis.R` - Cleaned R code
-- `summary_page1.jpg` & `summary_page2.jpg` - 2-page report
+### 📊 Project Visual Summary
 
+#### Page 1 - Overview
+![Page 1](./summary_page1.jpg)
+
+#### Page 2 - Key Findings (p=0.0038, HR=3.27)
+![Page 2](./summary_page2.jpg)
+
+### 💻 Code & Reproducibility
+- `survival_analysis.R` - Full R code (Kaplan-Meier, Log-Rank, Cox Model)
+- Tools: R (survival, survminer), SPSS v22, Excel
+- Dataset: 1,293 cases from Chitungwiza Central Hospital (2013-2019)
+
+### 🔗 Skills Demonstrated
+Survival Analysis | Biostatistics | R Programming | Data Visualization | Public Health Research
 ### 🛠️ Skills
 R, SQL, SPSS, ggplot2, Power BI, Excel
 
