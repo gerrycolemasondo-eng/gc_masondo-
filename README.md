@@ -43,4 +43,4 @@ Process work - learning to see details others miss.
 
 **3. Conceptual Portrait - The African Finder**
 Gift to Marvellous Nyongoro. A story about vision and leadership.
-![AfricanFinder(Art_The_African_Finder.jpg)
+![AfricanFinder](Art_The_African_Finder.jpg)
