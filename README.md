@@ -30,3 +30,17 @@ R, SQL, SPSS, ggplot2, Power BI, Excel
 
 ### 📫 Contact
 Harare, ZW | gerrycolemasondo@gmail.com
+### 🎨 Art Gallery - Hyper-Realistic Pencil Work
+I am a Statistician and an Artist. Both need the same skills: patience, observation, and precision.
+
+**1. Technical Study - Skull**
+Anatomy, light and shadow.
+![Skull](Art_Anatomical_Study.jpg)
+
+**2. Practice Studies - Eyes & Skin Texture**
+Process work - learning to see details others miss.
+![Eyes Practice](Art_Eye_Study.jpg)
+
+**3. Conceptual Portrait - The African Finder**
+Gift to Marvellous Nyongoro. A story about vision and leadership.
+![AfricanFinder(Art_The_African_Finder.jpg)
